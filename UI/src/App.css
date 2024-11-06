@@ -1,0 +1,19 @@
+/* #root {
+
+  margin: 0 auto;
+
+  text-align: center;
+} */
+
+.menu-btn{
+  border: 2px solid #fff;
+}
+
+.moon.scheme-icon::before{
+  content: "\1F319";
+}
+
+.sun.scheme-icon::before{
+  content: "\1F31E";
+}
+
